@@ -1,0 +1,56 @@
+
+body {
+    font-family: Arial;
+    text-align: center;
+    background: #eee;
+    margin: 0;
+}
+
+h1 {
+    background: navy;
+    color: white;
+    padding: 20px;
+}
+
+.form {
+    margin: 20px;
+}
+
+input {
+    padding: 10px;
+    margin: 5px;
+}
+
+button {
+    padding: 10px;
+    background: navy;
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin: 3px;
+}
+
+table {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    background: white;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 12px;
+}
+
+th {
+    background: navy;
+    color: white;
+}
+
+.edit {
+    background: green;
+}
+
+.delete {
+    background: red;
+}
